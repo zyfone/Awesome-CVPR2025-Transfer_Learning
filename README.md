@@ -46,6 +46,8 @@
 - **Domain Generalization in CLIP via Learning with Diverse Text Prompts**
 - **Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**
 - **SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**
+- **Hierarchical Knowledge Prompt Tuning for Multi-task Test-Time Adaptation**
+- **Realistic Test-Time Adaptation of Vision-Language Models**
 
 ### Occlusion-Aware
 - **ONDA-Pose: Occlusion-Aware Neural Domain Adaptation for Self-Supervised 6D Object Pose Estimation**
@@ -130,6 +132,23 @@
 > 63. AffordDP: Generalizable Diffusion Policy with Transferable Affordance
 > 64. Boosting Adversarial Transferability through Augmentation in Hypothesis Space
 > 65. Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation
+> 66. Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing
+> 67. Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model
+> 68. Task-Specific Gradient Adaptation for Few-Shot One-Class Classification
+> 69. Minimal Interaction Seperated Tuning: A New Paradigm for Visual Adaptation
+> 70. Hierarchical Knowledge Prompt Tuning for Multi-task Test-Time Adaptation
+> 71. Realistic Test-Time Adaptation of Vision-Language Models
+> 72. Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM
+> 73. Dynamic Updates for Language Adaptation in Visual-Language Tracking
+> 74. Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment
+> 75. Bayesian Test-Time Adaptation for Vision-Language Models
+> 76. SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting
+> 77. COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation
+> 78. CRISP: Object Pose and Shape Estimation with Test-Time Adaptation
+> 79. SURGEON: Memory-Adaptive Fully Test-Time Adaptation via Dynamic Activation Sparsity
+> 80. Maintaining Consistent Inter-Class Topology in Continual Test-Time Adaptation
+> 81. Dynamic Group Normalization: Spatio-Temporal Adaptation to Evolving Data Statistics
+> 82. Label Shift Meets Online Learning: Ensuring Consistent Adaptation with Universal Dynamic Regret
 
 
 ------
