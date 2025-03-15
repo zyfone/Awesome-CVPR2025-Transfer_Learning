@@ -142,9 +142,3 @@
 > 5. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
 > 6. VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection
 
-###  Flow Matching
-> 1. CH3Depth: Efficient and Flexible Depth Foundation Model with Flow Matching
-> 2. FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation
-> 3. Diff2Flow: Bridging the Gap between Diffusion and Flow Matching with Minimal Cost
-> 4. MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation
-> 5. GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving
