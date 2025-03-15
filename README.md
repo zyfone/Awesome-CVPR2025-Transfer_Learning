@@ -30,7 +30,7 @@
 
 ## Hot-Topic-Paper
 
-### Chain-of-Thought
+### Chain-of-Thought (TOP-1🔥)
 - **Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**
 
 ### Mamba
