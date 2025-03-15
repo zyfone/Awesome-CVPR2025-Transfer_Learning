@@ -124,4 +124,27 @@
 > 57. Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection
 > 58. MODfinity Unsupervised Domain Adaptation with Multimodal Information Flow Intertwining
 > 59. Federated Learning with Domain Shift Eraser
->
+> 60. Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement
+> 61. Enhancing Adversarial Transferability with Checkpoints of a Single Model’s Training
+> 62. MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation
+> 63. AffordDP: Generalizable Diffusion Policy with Transferable Affordance
+> 64. Boosting Adversarial Transferability through Augmentation in Hypothesis Space
+> 65. Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation
+
+
+------
+## Other papers in Hot Topics ：
+### Chain-of-Thought
+> 1. VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection
+> 2. Interleaved-modal Chain-of-Thought
+> 3. Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought
+> 4. Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval
+> 5. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
+> 6. VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection
+
+###  Flow Matching
+> 1. CH3Depth: Efficient and Flexible Depth Foundation Model with Flow Matching
+> 2. FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation
+> 3. Diff2Flow: Bridging the Gap between Diffusion and Flow Matching with Minimal Cost
+> 4. MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation
+> 5. GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving
